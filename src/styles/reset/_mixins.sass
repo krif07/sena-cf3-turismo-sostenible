@@ -1,0 +1,7 @@
+@use 'sass:color'
+
+@function textColor($color)
+  @if (color.lightness($color) > 50)
+    @return $color-tipografia
+  @else
+    @return $white
