@@ -322,7 +322,7 @@
       h3 Los protocolos específicos por servicio son: 
 
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA")(data-aos="flip-left")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA" data-aos="flip-left")
       .row(titulo="Alojamientos").letra-acordeon-titulos
         .col-md-1
         .col-md-6

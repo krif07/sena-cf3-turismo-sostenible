@@ -12,7 +12,7 @@
       p Entre las acciones más relevantes se incluyen:
 
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA")(data-aos="flip-left")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA" data-aos="flip-left")
       .row(titulo="Elementos de protección personal (EPP)").letra-acordeon-titulos
         .col-md-1
         .col-md-6

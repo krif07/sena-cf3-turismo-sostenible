@@ -158,7 +158,7 @@
       p El sector turístico incide especialmente en los siguientes objetivos:
 
     br
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA")(data-aos="flip-left")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA" data-aos="flip-left")
       .row(titulo="ODS 8: Trabajo decente y crecimiento económico").letra-acordeon-titulos
         .col-1
         .col-md-9.mb-4.mb-md-0

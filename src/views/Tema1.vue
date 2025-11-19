@@ -123,7 +123,7 @@
       p Además, contempla la capacitación del personal, el mantenimiento adecuado de los vehículos y la atención al cliente como factores esenciales para garantizar un servicio seguro y de calidad.
       p Por su parte, la Norma Técnica Colombiana NTC 6505 profundiza en la gestión de sostenibilidad para los prestadores de servicios de transporte turístico, abordando tres dimensiones clave:
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA")(data-aos="flip-left")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul acordeonA" data-aos="flip-left")
       .row(titulo="Gestión Ambiental").letra-acordeon-titulos
         .col-md-1
         .col-md-11

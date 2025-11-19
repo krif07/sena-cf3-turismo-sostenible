@@ -83,7 +83,7 @@
     .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       h3 Turismo comunitario en San Basilio de Palenque (Bolívar)
 
-    .tarjeta(titulo="Ejemplo - 1")(data-aos="fade-left")
+    .tarjeta(titulo="Ejemplo - 1" data-aos="fade-left")
       .imgCont.m-auto
         .row.justify-content-center
           ImagenInfografica.color-acento-botones
@@ -110,7 +110,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2
       
-    .tarjeta(titulo="Ejemplo - 1")(data-aos="flip-up")
+    .tarjeta(titulo="Ejemplo - 1" data-aos="flip-up")
       .imgCont.m-auto
         .row.justify-content-center
           ImagenInfografica.color-acento-botones
@@ -137,7 +137,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2
 
-    .tarjeta(titulo="Ejemplo - 1")(data-aos="flip-down")
+    .tarjeta(titulo="Ejemplo - 1" data-aos="flip-down")
       .imgCont.m-auto
         .row.justify-content-center
           ImagenInfografica.color-acento-botones
@@ -164,7 +164,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2
 
-    .tarjeta(titulo="Ejemplo - 1")(data-aos="flip-up")
+    .tarjeta(titulo="Ejemplo - 1" data-aos="flip-up")
       .imgCont.m-auto
         .row.justify-content-center
           ImagenInfografica.color-acento-botones
