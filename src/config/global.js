@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Turismo sostenible y comunidades étnicas',
+    Name: 'Técnicas de narrativa y expresión oral',
     Description:
-      'Este componente formativo aborda la relación entre turismo sostenible y comunidades étnicas en Colombia, resaltando la importancia de la diversidad cultural y natural. Incluye normatividad, derechos territoriales, criterios de sostenibilidad y conservación del patrimonio, brindando herramientas para diseñar experiencias turísticas responsables que promuevan el respeto, la inclusión y el desarrollo de las comunidades anfitrionas.',
+      'Este componente aborda de manera integral los fundamentos y técnicas de la narración oral, explorando la adaptación de relatos, el manejo de la voz, la expresión corporal, la interacción con el público en contextos comunitarios y étnicos, así como la gestión de la retroalimentación tanto por parte del público como del operador turístico.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
 
         numero: '1',
-        titulo: 'Turismo sostenible y comunidades étnicas',
+        titulo: 'Fundamentos de la narración oral',
         desarrolloContenidos: true,
         subMenu: [
           {

@@ -1,1 +1,1 @@
-module.exports = 'Turismo sostenible y comunidades étnicas'
+module.exports = 'Técnicas de narrativa y expresión oral'
