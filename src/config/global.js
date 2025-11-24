@@ -25,20 +25,13 @@ export default {
         numero: '1',
         titulo: 'Fundamentos de la narración oral',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Clasificación y distribución de comunidades étnicas',
-            hash: 't_1_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
 
-        numero: '1.2',
+        numero: '1.1',
         titulo:
-          'Diferencias entre paquetes turísticos convencionales y comunitarios',
+          'Concepto, tipos, propósitos y estilos de narración oral',
         desarrolloContenidos: true,
       },
       {
