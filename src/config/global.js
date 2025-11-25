@@ -45,9 +45,9 @@ export default {
       {
         nombreRuta: 'tema4',
 
-        numero: '1.4',
+        numero: '1.3',
         titulo:
-          'Condiciones operativas y de mercado: infraestructura, proveedores y tendencias turísticas',
+          'Lenguaje corporal y comunicación no verbal en la narración',
         desarrolloContenidos: true,
       },
       {
