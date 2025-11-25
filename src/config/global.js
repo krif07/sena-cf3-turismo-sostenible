@@ -37,9 +37,9 @@ export default {
       {
         nombreRuta: 'tema3',
 
-        numero: '1.3',
+        numero: '1.2',
         titulo:
-          'Normativa turística y protocolos de seguridad, bioseguridad y gestión de riesgos',
+          'Técnicas narrativa y de expresión oral',
         desarrolloContenidos: true,
       },
       {
