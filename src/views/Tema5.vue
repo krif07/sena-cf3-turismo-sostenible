@@ -2,15 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    #t_1_5
+    #t_1_4
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h1 1.5.	Estrategias de fijación de precios y análisis de costos
+      h1 1.4.	Elementos de la cuentería y del personaje
    
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      p El precio de un paquete turístico es uno de los factores más determinantes en el proceso de decisión de compra del cliente. Representa no solo el valor económico del producto, sino también la percepción de calidad, exclusividad y satisfacción que el turista asocia con la experiencia ofrecida.
-      p Por ello, establecer precios adecuados requiere un análisis técnico y detallado de los costos operativos, las condiciones del mercado, la competencia y el perfil del cliente objetivo. Este proceso permite equilibrar la rentabilidad empresarial con la accesibilidad del producto, garantizando que la oferta sea atractiva, sostenible y justa.
-      p La estrategia de precios debe asegurar la viabilidad financiera del operador turístico, al tiempo que mantiene la competitividad del producto frente a otros actores del mercado.
-      p Para lograrlo, es necesario aplicar una planificación económica integral, que combine criterios de:
+      p Escuchar un buen cuento no implica solo disfrutar de la historia, también supone identificarse con los personajes, percibir el ambiente y vivir el conflicto y su resolución. En la cuentería, estos componentes se entrelazan para crear una experiencia que trasciende el relato, una vivencia que conmueve, enseña y transporta.
+      p Para lograr ese efecto, el cuentero o narrador debe dominar con habilidad ciertos elementos esenciales:
+
+
+    separador
+    separador
+    separador
+    separador
 
     br        
     .row.justify-content-center(data-aos="flip-down")

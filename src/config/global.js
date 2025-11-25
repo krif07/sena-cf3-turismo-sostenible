@@ -53,8 +53,8 @@ export default {
       {
         nombreRuta: 'tema5',
 
-        numero: '1.5',
-        titulo: 'Estrategias de fijación de precios y análisis de costos',
+        numero: '1.4',
+        titulo: 'Elementos de la cuentería y del personaje',
         desarrolloContenidos: true,
       },
       {
