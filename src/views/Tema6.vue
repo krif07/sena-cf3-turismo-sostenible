@@ -6,7 +6,6 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h1 1.5.	Interpretación actoral: concepto, técnicas y componentes
 
-    br
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       p La interpretación actoral es el proceso mediante el cual un actor o narrador da vida a un personaje, utilizando recursos expresivos que integran el cuerpo, la voz, la emoción, la imaginación y la técnica. No se trata solo de “actuar”, sino de encarnar al personaje, hacerlo creíble y lograr que el público sienta su existencia real, con todas sus motivaciones, contradicciones y transformaciones.
       p Según Héctor Julio Pérez López (2015), en su artículo Los tres cuerpos de la narración: una poética cognitivista de la interpretación actoral, el cuerpo del intérprete no es únicamente un vehículo físico, sino un mediador cognitivo donde emociones, memoria, imaginación y empatía confluyen para generar presencia escénica. Este enfoque resalta que interpretar no significa “vestir un papel”, sino activar los recursos internos y armonizarlos con los elementos externos de la actuación —gestos, voz y contexto— para comunicar con autenticidad y profundidad emocional. Por esta razón, resulta fundamental conocer las principales técnicas de interpretación actoral, las cuales pueden aplicarse en el ámbito del turismo cultural y étnico como herramientas para fortalecer la mediación escénica y narrativa.

@@ -68,17 +68,9 @@ export default {
       {
         nombreRuta: 'tema7',
 
-        numero: '2',
-        titulo: 'Logística de itinerarios turísticos',
+        numero: '1.6',
+        titulo: 'Técnicas de expresión oral: características y componentes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '2.1',
-            titulo:
-              'Planificación de itinerarios: tiempos, actividades, traslados',
-            hash: 't_2_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema8',
