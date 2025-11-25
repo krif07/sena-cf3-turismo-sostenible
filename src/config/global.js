@@ -60,9 +60,9 @@ export default {
       {
         nombreRuta: 'tema6',
 
-        numero: '1.6',
+        numero: '1.5',
         titulo:
-          'Principios de turismo responsable: comercio justo, alianzas comunitarias y uso equitativo de recursos',
+          'Interpretación actoral: concepto, técnicas y componentes',
         desarrolloContenidos: true,
       },
       {
