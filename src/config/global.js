@@ -99,9 +99,9 @@ export default {
       {
         nombreRuta: 'tema11',
 
-        numero: '2.5',
+        numero: '2.3',
         titulo:
-          'Verificación de bioseguridad y sostenibilidad en la logística turística',
+          'Tiempos narrativos, ritmo y fluidez en la narración',
         desarrolloContenidos: true,
       },
     ],
