@@ -83,17 +83,17 @@ export default {
       {
         nombreRuta: 'tema9',
 
-        numero: '2.3',
+        numero: '2.1',
         titulo:
-          'Accesibilidad en el turismo: gestión de contingencias, turismo inclusivo e infraestructura adaptada',
+          'Creación y construcción de personajes',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema10',
 
-        numero: '2.4',
+        numero: '2.2',
         titulo:
-          'Manejo de reservas, disponibilidad de transporte y coordinación',
+          'Elaboración de diálogos y uso de la improvisación',
         desarrolloContenidos: true,
       },
       {

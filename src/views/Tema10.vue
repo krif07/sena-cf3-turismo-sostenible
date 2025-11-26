@@ -2,68 +2,22 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    #t_2_4
+    #t_2_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h1 2.4.	Manejo de reservas, disponibilidad de transporte y coordinación 
-   
+      h1 2.2.	Elaboración de diálogos y uso de la improvisación
+
+
+
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      p El manejo eficiente de reservas, la gestión de la disponibilidad de transporte y la coordinación operativa son elementos clave para garantizar el buen funcionamiento de cualquier servicio turístico. Estos procesos permiten optimizar recursos, evitar conflictos de agenda y asegurar que los visitantes disfruten de una experiencia fluida y segura.
-      p Además, la adecuada planificación y coordinación entre proveedores, operadores y comunidades anfitrionas contribuye a la sostenibilidad del servicio, al cumplimiento de los estándares de calidad y a la satisfacción del cliente. En contextos de turismo comunitario, este manejo debe realizarse con sensibilidad cultural, respetando los tiempos y protocolos de las comunidades locales y garantizando la participación activa de todos los actores involucrados.
-      p 
-      h3 Manejo de reservas 
-      p Los sistemas de reservas para el turismo étnico deben diseñarse considerando las estructuras organizativas tradicionales de las comunidades. En lugar de imponer plataformas tecnológicas complejas, es preferible desarrollar sistemas híbridos que combinen herramientas digitales accesibles con mecanismos de decisión comunitaria presencial. A continuación, se presentan los aspectos a tener en cuenta durante la realización y gestión de las reservas:
-
-    ImagenInfograficaB.color-primario
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/temas/tema2/tema4/tema24-modal1-bg.svg', alt='Texto que describa la imagen')
-          
-      div(x="13.5%" y="48%" tooltip="Ciclos de la comunidad" numero="")
-        .tarjeta.white-card.p-2
-          .row
-            .col-1
-            .col-lg-4
-              figure
-                img(src='@/assets/curso/temas/tema2/tema4/tema24-modal1-img1.svg', alt='imagen decorativa')
-            .col-lg-7
-              h3 Ciclos de la comunidad
-              br
-              p Las reservas deben gestionarse respetando los ciclos ceremoniales, agrícolas y organizativos de la comunidad, evitando la saturación turística, ya que esta puede convertirse en una actividad invasiva, afectando negativamente la vida cotidiana de la comunidad anfitriona. 
-
-      div(x="40.7%" y="20.5%" tooltip="Transparencia: disponibilidad y precios", numero="")
-        .tarjeta.white-card.p-4
-          .row
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema2/tema4/tema24-modal1-img2.svg', alt='imagen decorativa')
-            .col-lg-7
-              h3 Transparencia: disponibilidad y precios
-              p La información sobre disponibilidad y precios debe comunicarse con transparencia, explicando claramente cómo se distribuyen los ingresos generados y qué porcentaje se destina a proyectos comunitarios.
-
-      div(x="57.5%" y="75%" tooltip="Flexibilidad y adaptabilidad", numero="")
-        .tarjeta.white-card.p-4
-          .row
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema2/tema4/tema24-modal1-img3.svg', alt='imagen decorativa')
-            .col-lg-7
-              h3 Flexibilidad y adaptabilidad
-              h4 Los sistemas de reservas deben permitir cierta flexibilidad para adaptarse a imprevistos, que pueden incluir:
-              p.mb-0
-              p.mb-0 Cambios en la agenda de la comunidad por eventos ceremoniales o festividades tradicionales.
-              p.mb-0 Condiciones climáticas adversas que afecten el transporte o las actividades planificadas.
-              p.mb-0 Enfermedades o emergencias de miembros de la comunidad o del grupo de visitantes.
-              p.mb-0 Retrasos o cancelaciones de transporte que afecten la llegada o salida de los turistas.
+      p Según Linda Seger en Making a Good Script Great (2003), “el diálogo debe revelar carácter, avanzar la acción y mantener la atención del espectador”, recordando que cada palabra tiene un propósito dramático.
+      p A partir de esta idea, se comprende que el diálogo constituye el corazón vivo de toda narración oral. A través de las palabras intercambiadas entre los personajes, el público percibe sus emociones, conflictos y transformaciones. Elaborar buenos diálogos implica construir conversaciones naturales, coherentes con el contexto cultural y emocional de la historia.
+      p Para lograrlo, es necesario tener en cuenta los siguientes componentes fundamentales:
       
-      div(x="91.2%" y="13%" tooltip="Flexibilidad y adaptabilidad", numero="")
-        .tarjeta.white-card.p-4
-          .row
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema2/tema4/tema24-modal1-img4.svg', alt='imagen decorativa')
-            .col-lg-7
-              h3 Políticas de cancelación y modificación
-              p Políticas de cancelación y modificación que sean justas para ambas partes, considerando las particularidades de la economía y organización comunitaria, y permitiendo reprogramar las reservas sin afectar la experiencia del visitante ni la dinámica interna de la comunidad.
+
+    separador
+    separador
+    separador
+    separador
     
     br
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
