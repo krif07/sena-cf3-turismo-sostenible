@@ -75,9 +75,9 @@ export default {
       {
         nombreRuta: 'tema8',
 
-        numero: '2.2',
+        numero: '2',
         titulo:
-          'Capacidad de carga turística: factores físicos, sociales, psicológicos y ecológicos',
+          'Técnicas narrativas y adaptación de relatos',
         desarrolloContenidos: true,
       },
       {
