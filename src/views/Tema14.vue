@@ -113,6 +113,48 @@
               figure
                 img(src='@/assets/curso/temas/tema3/tema1/tema3-pasovertical1-img4.svg', alt='Texto que describa la imagen')
 
+    br
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      h3 Lineamientos éticos y normativos
+      p La implementación de estos recursos debe observar los Protocolos de Comunicación Intercultural del Ministerio del Interior y los Lineamientos del Ministerio de Cultura sobre representación culturalmente apropiada, teniendo en cuenta: 
+      .col-md-10
+        .p •	La identificación de gestos exclusivos de las autoridades espirituales.
+        .p •	La adaptación kinésica según género y edad en cada comunidad.
+        .p •	La preservación de repertorios gestuales como patrimonio inmaterial.
+        .p •	La gestión ética de la expresividad conforme a las jerarquías comunitarias.
+        .p •	El reconocimiento de gestos presentes en lenguas nativas y criollas.
+
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      p Este enfoque diferencial garantiza que la narración oral en contextos turísticos étnicos fortalezca los procesos de autonomía cultural, al tiempo que cumple con los estándares del Convenio 169 de la OIT sobre consulta previa y consentimiento libre, informado y previo, contribuyendo así a la protección de la integridad cultural de los pueblos originarios y comunidades étnicas de Colombia.
+      p A continuación se mencionan dos escenarios en dónde se realizan y aprecian estas prácticas:
+
+    br
+    .row.justify-content-center
+      .col-lg-12
+        .crd.tarjeta.acordeonA
+          PasosB.color-acento-botones.p-4(data-aos="fade-right")
+            .row.justify-content-center(titulo="").pt-1
+              .col-lg-7.mb-4.mb-lg-0
+                br
+                h5.color-adicional-4 Comunidad Misak (Cauca) 
+                p.color-adicional-4 Se implementan pausas ceremoniales de siete segundos entre episodios narrativos, correspondientes a los ciclos agrícolas del calendario lunar tradicional.
+
+              .col-lg-3.col-6
+                figure
+                  img(src='@/assets/curso/temas/tema3/tema1/tema31-pasos-hor1-img1.svg', alt='')
+
+            .row.justify-content-center(titulo="").pt-1
+              .col-lg-7.mb-4.mb-lg-0
+                br
+                h5.color-adicional-4 Isla de Providencia
+                p.color-adicional-4 Los narradores raizales han creado un diccionario gestual aprobado por la comunidad, que facilita la comunicación con los visitantes sin interrumpir las ceremonias culturales, utilizando señales inspiradas en su tradición marinera.
+
+              .col-lg-3.col-6
+                figure
+                  img(src='@/assets/curso/temas/tema3/tema1/tema31-pasos-hor1-img2.svg', alt='')
+
+
+
 </template>
 
 <script>
