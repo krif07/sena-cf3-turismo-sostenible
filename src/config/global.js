@@ -120,6 +120,14 @@ export default {
           'Expresión oral, corporal y manejo de la voz',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema14',
+
+        numero: '3.1',
+        titulo:
+          'Aplicación de pausas activas y manejo de gestos en la narración',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
