@@ -136,6 +136,14 @@ export default {
           'Regulación de la respiración y fluidez narrativa',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema16',
+
+        numero: '3.3',
+        titulo:
+          'Alternancia de voces, emociones y tonos en los relatos',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
