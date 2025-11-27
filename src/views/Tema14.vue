@@ -15,6 +15,55 @@
         figure
           img(src='@/assets/curso/temas/tema3/tema1/tema3-img1.svg', alt='El diseño y la organización de paquetes turísticos')
 
+    br        
+    .row.justify-content-center(data-aos="flip-down")
+      .col-lg-11
+        SlyderF(columnas="col-lg-6 col-xl-4")
+          .tarjeta.color-acento-contenido.p-4
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-carrucel3-img1.svg' alt='AvatarTop')
+            br
+            p.text-center Pausas ceremoniales: respetan los silencios rituales en narrativas ancestrales.
+
+          .tarjeta.color-acento-contenido.p-4
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-carrucel3-img2.svg' alt='AvatarTop')
+            br
+            p.text-center Pausas de traducción cultural: permiten el procesamiento intercultural de significados.
+
+          .tarjeta.color-acento-contenido.p-4
+            .row.justify-content-center.mb-3
+              .col-8
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-carrucel3-img3.svg' alt='AvatarTop')
+            br
+            p.text-center Pausas comunitarias: generan espacios de reflexión colectiva conforme a las tradiciones orales.
+
+          .tarjeta.color-acento-contenido.p-4
+            .row.justify-content-center.mb-3
+              .col-7
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-carrucel3-img4.svg' alt='AvatarTop')
+            br
+            p.text-center Pausas de respeto espiritual: corresponden a silencios reverenciales en lugares sagrado.
+
+    br
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      p Desde la perspectiva de la salud ocupacional con enfoque étnico, la Organización Internacional del Trabajo (OIT) reconoce estas pausas como “microdescansos culturalmente situados”, útiles para prevenir el agotamiento vocal y mental, en concordancia con el Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST). Esta adaptación se articula con los saberes tradicionales de protección vocal presentes en comunidades indígenas, afrodescendientes y raizales, integrando así la ergonomía laboral con la cosmovisión local.
+      br
+      h3 Gestualidad narrativa con enfoque diferencial
+      p La gestualidad narrativa debe analizarse a partir de la cosmovisión de cada pueblo, tal como lo documenta la UNESCO en sus protocolos de salvaguardia del patrimonio inmaterial. Los principales tipos de gestos son:
+
+
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
+      .col-md-12
+        figure
+          img(src='@/assets/curso/temas/tema3/tema1/tema31-tarjetaconectada1.svg', alt='El diseño y la organización de paquetes turísticos')
+
+    br
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      p La Organización Mundial del Turismo (OMT) subraya la importancia de la competencia gestual intercultural, evidenciando que: 
+
 
 </template>
 
