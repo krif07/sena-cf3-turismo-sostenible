@@ -64,6 +64,54 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       p La Organización Mundial del Turismo (OMT) subraya la importancia de la competencia gestual intercultural, evidenciando que: 
 
+    br
+    .row.justify-content-center(data-aos="fade-right")
+      .col-md-10.mb-5.mb-md-0
+        LineaTiempoD
+          .row(numero="A" titulo="")                
+            .col-md-7.mb-4.mb-md-0
+              br
+              br
+              br
+              br
+              .color-adicional-4.lh-1 En las comunidades Wayuu, los movimientos de manos poseen significados clánicos.
+            
+            .col-md-5
+              figure
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-pasovertical1-img1.svg', alt='Texto que describa la imagen')
+
+          .row(numero="B" titulo="")
+            .col-md-7.mb-4.mb-md-0
+              br
+              br
+              br
+              .color-adicional-4.lh-1 En los pueblos amazónicos, la mirada sigue protocolos establecidos por la jerarquía comunitaria. 
+            
+            .col-md-5
+              figure
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-pasovertical1-img2.svg', alt='Texto que describa la imagen')
+
+          .row(numero="C" titulo="")
+            .col-md-7.mb-4.mb-md-0
+              br
+              br
+              br
+              .color-adicional-4.lh-1 En contextos indígenas, la posición del cuerpo ante los mayores o autoridades espirituales requiere especial consideración.
+
+            .col-md-5
+              figure
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-pasovertical1-img3.svg', alt='Texto que describa la imagen')
+          
+          .row(numero="D" titulo="")
+            .col-md-7.mb-4.mb-md-0
+              br
+              br
+              br
+              .color-adicional-4.lh-1 En los pueblos amazónicos, Wayuu y los pueblos de pacífico y caribe indígena, los gestos asociados a la cacería o la pesca poseen connotaciones espirituales y rituales.
+
+            .col-md-5
+              figure
+                img(src='@/assets/curso/temas/tema3/tema1/tema3-pasovertical1-img4.svg', alt='Texto que describa la imagen')
 
 </template>
 
