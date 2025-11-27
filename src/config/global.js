@@ -128,6 +128,14 @@ export default {
           'Aplicación de pausas activas y manejo de gestos en la narración',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema15',
+
+        numero: '3.2',
+        titulo:
+          'Regulación de la respiración y fluidez narrativa',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
