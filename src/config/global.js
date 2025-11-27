@@ -104,6 +104,22 @@ export default {
           'Tiempos narrativos, ritmo y fluidez en la narración',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema12',
+
+        numero: '2.4',
+        titulo:
+          'Selección de recursos y espacios físicos para la narración',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema13',
+
+        numero: '3',
+        titulo:
+          'Expresión oral, corporal y manejo de la voz',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
