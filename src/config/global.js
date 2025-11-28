@@ -144,6 +144,22 @@ export default {
           'Alternancia de voces, emociones y tonos en los relatos',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema17',
+
+        numero: '3.4',
+        titulo:
+          'Normas de seguridad y salud: prevención de riesgos y autocuidado',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema18',
+
+        numero: '4',
+        titulo:
+          'Interacción con el público y retroalimentación',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
