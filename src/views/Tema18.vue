@@ -59,7 +59,7 @@
 
               .col-lg-3.col-6
                 figure
-                  img(src='@/assets/curso/temas/tema3/tema1/tema31-pasos-hor1-img1.svg', alt='')
+                  img(src='@/assets/curso/temas/tema4/tema1/tema41-pasos-hor1-img1.svg', alt='')
 
             .row.justify-content-center(titulo="Personas con discapacidad visual").pt-1
               .col-lg-7.mb-4.mb-lg-0
@@ -84,7 +84,7 @@
 
               .col-lg-3.col-6
                 figure
-                  img(src='@/assets/curso/temas/tema3/tema1/tema31-pasos-hor1-img2.svg', alt='')
+                  img(src='@/assets/curso/temas/tema4/tema1/tema41-pasos-hor1-img2.svg', alt='')
 
             .row.justify-content-center(titulo="Adaptabilidad cultural (sordos y ciegos)").pt-1
               .col-lg-7.mb-4.mb-lg-0
@@ -109,11 +109,54 @@
                     span Las prácticas de accesibilidad culturalmente situadas y validadas por las comunidades mismas
 
               .col-lg-3.col-6
+                br
                 figure
-                  img(src='@/assets/curso/temas/tema3/tema1/tema31-pasos-hor1-img2.svg', alt='')
+                  img(src='@/assets/curso/temas/tema4/tema1/tema41-pasos-hor1-img3.svg', alt='')
     br
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       p Este enfoque integral asegura que la comunicación turística sea inclusiva, respetuosa y culturalmente coherente, en cumplimiento de los principios de participación efectiva establecidos por el Convenio 169 de la OIT. A continuación se exponen un caso de aplicación intercultural en Caldas y otro en el pacífico colombiano:
+
+    br
+    .row.justify-content-center
+      .col-lg-12
+        .crd.tarjeta.acordeonA
+          PasosB.color-acento-botones.p-4(data-aos="fade-right")
+            .row.justify-content-center(titulo="").pt-1
+              .col-lg-7.mb-4.mb-lg-0
+                br
+                h5.color-adicional-4 Cañamomo Lomaprieta (Caldas), 
+                p.color-adicional-4 En el #[strong resguardo indígena de Cañamomo Lomaprieta (Caldas)], los guías turísticos aplican un modelo de comunicación bidireccional basado en círculos de #[strong palabra tradicionales]. Durante la narración del origen del resguardo, se asignan tiempos específicos para preguntas y comentarios, respetando el protocolo de la #[strong “palabra dulce”] empleado por los mayores de la comunidad.
+
+              .col-lg-3.col-6
+                figure
+                  img(src='@/assets/curso/temas/tema3/tema1/tema31-pasos-hor1-img1.svg', alt='')
+
+            .row.justify-content-center(titulo="").pt-1
+              .col-lg-7.mb-4.mb-lg-0
+                br
+                h5.color-adicional-4 Pacífico colombiano
+                p.color-adicional-4 En el #[strong Pacífico colombiano], narradores afrodescendientes han desarrollado un #[strong sistema tridimensional de comunicación] que integra:
+                ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta.clr-color-adicional-4
+                      span
+                    span Lenguaje verbal con #[strong modulaciones propias del criollo palenquero.]
+                  li 
+                    .lista-ol--cuadro__vineta.clr-color-adicional-4
+                      span
+                    span #[strong Ritmos corporales] inspirados en danzas tradicionales como el t
+                  li 
+                    .lista-ol--cuadro__vineta.clr-color-adicional-4
+                      span
+                    span #[strong Expresiones faciales codificadas] provenientes de la tradición oral    afrocolombiana.
+
+              .col-lg-3.col-6
+                figure
+                  img(src='@/assets/curso/temas/tema3/tema1/tema31-pasos-hor1-img2.svg', alt='')
+
+    br
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      p Estos ejemplos evidencian cómo la diversidad lingüística y expresiva enriquece la comunicación turística, fortaleciendo la autenticidad cultural y la experiencia del visitante.
 
 </template>
 
