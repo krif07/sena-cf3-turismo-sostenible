@@ -160,6 +160,22 @@ export default {
           'Interacción con el público y retroalimentación',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema19',
+
+        numero: '4.1',
+        titulo:
+          'Estrategias de empatía e interacción con los espectadores',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema20',
+
+        numero: '4.2',
+        titulo:
+          'Técnicas de adaptabilidad frente a diferentes contextos e imprevistos',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
