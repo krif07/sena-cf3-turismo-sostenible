@@ -241,264 +241,280 @@ export default {
   complementario: [
     {
       tema:
-        '1.4 Diferencia entre atractivo y destino turístico: Atractivo turístico, destino turístico, relación entre ambos conceptos.',
+        '1.2 Técnicas narrativas y de expresión oral',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022, 27 septiembre). Diseño de la experiencia turística [Vídeo]. YouTube.',
+        'Educatina Español. (2021, 10 de julio). Tips de narración oral. YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=gdoaM7qG80s',
+      link: 'https://www.youtube.com/watch?v=v8vkfa0Eck8',
     },
     {
       tema:
-        '1.5. Geografía turística: clima, biodiversidad, accesibilidad y conectividad',
+        '1.4 Elementos de la cuentería y del persona',
       referencia:
-        'Instituto Humboldt. (s. f.). Instituto Alexander Von Humboldt.',
-      tipo: 'Página interactiva',
-      link: 'https://www.humboldt.org.co/',
+        'HubSpot en Español. (2022, 15 de septiembre). Qué es y cómo hacer un storytelling. YouTubeco/',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=77TAn3GuKSg',
     },
     {
       tema:
-        '1.5. Geografía turística: clima, biodiversidad, accesibilidad y conectividad',
+        '1.6 Técnicas de expresión oral: características y componentes',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022, 25 octubre). Geografia turistica [Vídeo]. YouTube.',
+        'Escuela de Narradores. (2020, 22 de agosto). La narración oral para principiantes. YouTube',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=aQokH-6FxOU',
+      link: 'https://www.youtube.com/watch?v=xO_cjQm0G8Q',
+    },
+    {
+      tema:
+        '3.1La voz: cualidades, impostación y técnicas de calentamiento vocal.',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. Fundamentación en técnicas vocal (5 noviembre 2024) ',
+      tipo: 'Video',
+      link: 'https://youtu.be/_Zxmxkw-MWI?si=cpZjvc1ArlPS_tQh',
+    },
+    {
+      tema:
+        '3.2 Técnicas de expresión corporal y uso del espacio',
+      referencia:
+        'Edutin Academy. Cómo mantener la atención del público - Curso de turismo. (22 marzo 2022)',
+      tipo: 'Video',
+      link: 'https://youtu.be/Jy6He7DKV14?si=8LMyMLn6npoFRNGI',
+    },
+    {
+      tema:
+        '3.3 Aplicación de pausas activas y manejo de gestos en la narración',
+      referencia:
+        'ExpresArte mejor – Oratoria y alocución Cómo MOVER LAS MANOS al hablar. Gestos corporales de ORATORIA para hablar en público (3 de abril de 2022).',
+      tipo: 'Video',
+      link: 'https://youtu.be/j9NllX-KObU?si=Ik62a5IpTJIA4zLE',
     },
   ],
   glosario: [
     {
-      termino: 'Accesibilidad turística',
+      termino: 'Narración oral',
       significado:
-        'Conjunto de acciones y adaptaciones físicas, comunicativas y culturales que permiten que todas las personas, incluidas aquellas con diversidad funcional, puedan disfrutar de los servicios turísticos de manera segura, autónoma y equitativa.',
+        'Arte de contar historias de forma hablada, integrando voz, gestos y emoción para comunicar un mensaje o tradición.',
     },
     {
-      termino: 'Alojamiento sostenible',
+      termino: 'Guion narrativo',
       significado:
-        'Establecimiento de hospedaje que aplica prácticas ambientales, socioculturales y económicas responsables para minimizar impactos negativos y maximizar beneficios locales.',
+        'Estructura escrita o plan que guía el desarrollo de una narración, indicando el orden de los hechos, diálogos y acciones.',
     },
     {
-      termino: 'Cadena de valor',
+      termino: 'Personaje',
       significado:
-        'Secuencia de actividades y transacciones que conectan a los proveedores de insumos con los turistas, incluyendo la planificación del viaje, la experiencia en el destino y los servicios posteriores.',
+        'Figura humana, animal o simbólica que cumple un papel dentro del relato y contribuye al desarrollo de la historia.',
     },
     {
-      termino: 'Capacidad de carga turística',
+      termino: 'Improvisación',
       significado:
-        'Límite máximo de visitantes que un destino puede recibir sin comprometer su sostenibilidad ambiental, cultural o la calidad de la experiencia.',
+        'Técnica que permite crear o adaptar una historia en el momento, con espontaneidad y creatividad, según el público y el contexto.',
     },
     {
-      termino: 'Comercio justo en turismo',
+      termino: 'Tiempos narrativos',
       significado:
-        'Principio que promueve relaciones equitativas entre actores del sector turístico, garantizando distribución justa de ingresos, respeto laboral y valorización cultural.',
+        'Momentos y ritmo con los que se organiza el relato; puede incluir tiempos pasados, presentes o futuros dentro de la historia.',
     },
     {
-      termino: 'Comunidades étnicas',
+      termino: 'Expresión oral',
       significado:
-        'Grupos humanos con identidad cultural diferenciada, tradiciones, lengua y cosmovisión propias, reconocidos legalmente por el Estado colombiano.',
+        'Conjunto de habilidades que permiten comunicar mensajes de forma clara, fluida y emocional a través de la voz y el lenguaje corporal.',
     },
-    {
-      termino: 'Cosmovisión',
+    { 
+      termino: 'Lenguaje corporal',
       significado:
-        'Conjunto de creencias, valores y sistemas de conocimiento de un pueblo indígena que explica su relación con el universo, la naturaleza, los dioses y la comunidad. Considera al ser humano como parte de un equilibrio cósmico, con profunda conexión entre espiritualidad, naturaleza y cultura.',
+        'Comunicación no verbal que se expresa mediante movimientos, gestos, posturas y expresiones faciales.',
     },
-    {
-      termino: 'Gestión del riesgo turístico',
+    { 
+      termino: 'Cuentería',
       significado:
-        'Proceso de identificación, evaluación y mitigación de amenazas naturales, antrópicas o sanitarias que pueden afectar la seguridad de turistas y comunidades anfitrionas.',
+        'Práctica artística y cultural de narrar cuentos en espacios públicos o comunitarios, conservando la tradición oral.',
     },
-    {
-      termino: 'Itinerario turístico',
+    { 
+      termino: 'Interpretación actoral',
       significado:
-        'Plan organizado que detalla actividades, tiempos, traslados y servicios de un paquete turístico, diseñado para ofrecer una experiencia coherente y segura.',
+        'Proceso mediante el cual una persona da vida a un personaje a través del cuerpo, la voz y la emoción.',
     },
-    {
-      termino: 'Logística turística',
+    { 
+      termino: 'Diálogo',
       significado:
-        'Conjunto de procesos que garantizan la coordinación operativa de los servicios incluidos en un paquete turístico, como transporte, alojamiento y actividades.',
+        'Intercambio verbal entre personajes que aporta dinamismo, realismo y profundidad a la narración.',
     },
-    {
-      termino: 'Normas Técnicas Sectoriales (NTS)',
+    { 
+      termino: 'Espacio narrativo',
       significado:
-        'Estándares colombianos que establecen requisitos de calidad y sostenibilidad que deben cumplir los prestadores de servicios turísticos.',
+        'Escenario físico o simbólico donde ocurre la historia; puede ser realista, mítico o imaginario.',
     },
-    {
-      termino: 'Paquete turístico comunitario',
+    { 
+      termino: 'Recursos escénicos',
       significado:
-        'Producto diseñado y gestionado por una comunidad local, que integra experiencias culturales, naturales y sociales con enfoque sostenible.',
+        'Elementos visuales, sonoros o materiales que complementan la narración oral, como luces, vestuario, música o espacios físicos.',
     },
-    {
-      termino: 'Política de Turismo Sostenible',
+    { 
+      termino: 'Ritmo narrativo',
       significado:
-        'Estrategia nacional que orienta el desarrollo del turismo colombiano hacia la sostenibilidad ambiental, sociocultural y económica.',
+        'Velocidad y fluidez con la que se desarrollan los acontecimientos en un relato, influyendo en la atención del público.',
     },
-    {
-      termino: 'Proveedores turísticos',
+    { 
+      termino: 'Adaptabilidad cultural',
       significado:
-        'Empresas o personas que ofrecen servicios específicos como transporte, alimentación, alojamiento o guianza dentro de un paquete turístico.',
+        'Capacidad profesional para ajustar las técnicas narrativas a los protocolos, ritmos y estructuras comunicativas específicas de cada comunidad étnica, garantizando el respeto a sus tradiciones orales.',
     },
-    {
-      termino: 'Registro Nacional de Turismo (RNT)',
+    { 
+      termino: 'Curva de interés',
       significado:
-        'Inscripción obligatoria para todos los prestadores de servicios turísticos en Colombia, que garantiza formalidad y cumplimiento normativo.',
+        'Herramienta narrativa que alterna estratégicamente momentos de alta energía con fases de reflexión, modulando la velocidad discursiva para mantener la atención del público en contextos turísticos.',
     },
-    {
-      termino: 'Turismo comunitario',
+    { 
+      termino: 'Énfasis narrativo',
       significado:
-        'Modalidad de turismo gestionada directamente por comunidades locales, que promueve el intercambio cultural, el desarrollo local y la conservación del entorno.',
+        'Técnica vocal y corporal para resaltar palabras o ideas culturalmente significativas dentro del relato, mediante variaciones tonales, intensidad sonora o pausas activas.',
     },
-    {
-      termino: 'Turismo responsable',
+    { 
+      termino: 'Empatía intercultural',
       significado:
-        'Enfoque que busca minimizar los impactos negativos del turismo y maximizar los beneficios sociales, económicos y ambientales para las comunidades anfitrionas.',
+        'Habilidad para sintonizar con las dimensiones emocionales y cognitivas de públicos culturalmente diversos, interpretando adecuadamente sus reacciones y respuestas.',
+    },
+    { 
+      termino: 'Impostación vocal',
+      significado:
+        'Técnica profesional de colocación de la voz en los resonadores faciales para lograr proyección y claridad, avalada por estándares de salud ocupacional y saberes ancestrales.',
+    },
+    { 
+      termino: 'Improvisación guiada',
+      significado:
+        'Estrategia narrativa basada en estructuras sólidas que permite adaptar la presentación a imprevistos técnicos o logísticos sin pérdida de coherencia en la experiencia turística.',
+    },
+    { 
+      termino: 'Turismo étnico sostenible',
+      significado:
+        'Modalidad turística que promueve la preservación del patrimonio cultural inmaterial, el respeto a los protocolos comunitarios y la distribución equitativa de beneficios, según la Política de Turismo Sostenible (MINCIT, 2022).',
     },
   ],
   referencias: [
     {
-      referencia:
-        'Congreso de la República de Colombia. (1996). Ley 300 de 1996. Ley General de Turismo. Diario Oficial de la República de Colombia.',
+    referencia:
+      'Bal, M. (1997). Narratology: Introduction to the Theory of Narrative (2.ª ed.). University of Toronto Press.',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2011). Ley 1480 de 2011. Estatuto del Consumidor. Diario Oficial de la República de Colombia.',
+        'Bal, M. (2009). Narratology: Introduction to the Theory of Narrative (3.ª ed.). University of Toronto Press.',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2012). Ley 1558 de 2012. Por la cual se modifica la Ley General de Turismo. Diario Oficial de la República de Colombia.',
+        'Barba-Téllez, M. N. (2013). La narración oral como acto de comunicación. Didasc@lia: Didáctica y Educación. Disponible en https://www.researchgate.net/publication/350621648_LA_NARRACION_ORAL_COMO_ACTO_DE_COMUNICACION',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2012). Ley 1523 de 2012. Por la cual se adopta la Política Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Diario Oficial de la República de Colombia.',
+        'Cassany, D. (2006). Construir la escritura. Barcelona: Paidós.',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2020). Ley 2068 de 2020. Por la cual se modifica la Ley General de Turismo y se dictan otras disposiciones. Diario Oficial de la República de Colombia.',
+        'Colino Rodríguez, M. (2017). Storytelling: el poder de las historias. Usos contemporáneos de la narración oral. Universidad Complutense de Madrid.',
     },
     {
       referencia:
-        'FasterCapital. (2024). Environmental impact of air transport in tourism. Recuperado de https://www.fastercapital.com',
+        'Cruz, D. (2020). Expresión oral: una problemática por abordar. Sciéndo, 23(4), 293–298. URL: https://revistas.unitru.edu.pe/index.php/SCIENDO/article/view/3202/pdf',
     },
     {
       referencia:
-        'ICONTEC. (2014). Norma Técnica Sectorial NTS–TS 004: Sostenibilidad para establecimientos gastronómicos. Instituto Colombiano de Normas Técnicas y Certificación.',
+        'Denning, S. (2011). The Leader’s Guide to Storytelling: Mastering the Art and Discipline of Business Narrative (2ª ed.). Jossey-Bass/Wiley.',
     },
     {
       referencia:
-        'ICONTEC. (2014). Norma Técnica Sectorial NTS–TS 005: Sostenibilidad para empresas de transporte turístico. Instituto Colombiano de Normas Técnicas y Certificación.',
+        'Field, S. (2005). El manual del guionista: Cómo escribir guiones de cine y televisión. Barcelona: Plot Ediciones.',
     },
     {
       referencia:
-        'ICONTEC. (2014). Norma Técnica Colombiana NTC 6505: Sistema de gestión de sostenibilidad para prestadores de servicios turísticos. Instituto Colombiano de Normas Técnicas y Certificación.',
+        'Forster, E. M. (2002). Aspectos de la novela. México: Fondo de Cultura Económica.',
     },
     {
       referencia:
-        'ICONTEC. (2020). Normas Técnicas Sectoriales Turísticas (NTS-TS y NTSH). Instituto Colombiano de Normas Técnicas y Certificación.',
+        'García, N. (2025). Técnicas de expresión oral desde un enfoque comunicativo. European Public & Social Innovation Review, 10(1), 1–14. https://www.studocu.com/pe/document/universidad-nacional-de-tumbes/anatomia-humana-i/1415-lastecnicasdeexpresionoraldesdeuncontextocomunicativo/14002289',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo (MINCIT). (2015). Resolución 3860 de 2015. Lineamientos para la implementación del turismo comunitario en Colombia. Bogotá: MINCIT.',
+        'Genette, G. (1972). Figures III: Discours du récit. Éditions du Seuil.',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo (MINCIT). (2022). Política de turismo sostenible: Colombia, potencia mundial del turismo sostenible 2030. Bogotá: MINCIT.',
+        'Genette, G. (1989). Figuras III: Discurso del relato. Barcelona: Editorial Lumen.',
     },
     {
       referencia:
-        'Ministerio de Cultura de Colombia. (2022). Lineamientos para el desarrollo del turismo cultural responsable. Bogotá: MinCultura.',
+        'Hall, E. T. (1976). La dimensión oculta. México: Siglo XXI Editores.',
     },
     {
       referencia:
-        'Ministerio de Industria, Comercio y Turismo. (2023). Turismo inclusivo y sostenible: lineamientos para la inclusión de comunidades locales. Bogotá: MINCIT.',
+        'Instituto Colombiano de Antropología e Historia – ICANH. (2022). Lineamientos para el trabajo con comunidades étnicas en proyectos culturales. https://www.icanh.gov.co',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2017). Resolución 1111 de 2017. Estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST). Bogotá: Ministerio de Salud.',
+        'Ministerio de Comercio, Industria y Turismo – MINCIT. (2022). Política de Turismo Sostenible de Colombia. https://www.mincit.gov.co',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social, & Ministerio de Comercio, Industria y Turismo. (2020). Resolución 666 de 2020. Protocolos de bioseguridad para el manejo y control del COVID-19 en el sector turismo. Bogotá: MinSalud.',
+        'Ministerio de Comercio, Industria y Turismo. (2023). NTC 6725-2023 Destinos y áreas turísticas – Requisitos de sostenibilidad. Bogotá, Colombia. Recuperado de https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-colombianas-y-guia/ntc-6725-2023-destinos-y-areas-turisticas-requisitos-de-sostenibilidad',
     },
     {
       referencia:
-        'Organización Mundial del Turismo (OMT). (2018). Turismo y sostenibilidad: indicadores para la gestión de destinos. Madrid: OMT.',
+        'Ministerio de Cultura. (2010). Documento PES: Saberes y tradiciones del viche. Ministerio de Cultura de Colombia. https://www.mincultura.gov.co/direcciones/patrimonio-y-memoria/Documents/Documento-PES-Saberes-tradiciones-viche.pdf',
     },
     {
       referencia:
-        'Organización Mundial del Turismo (OMT). (2019). Turismo comunitario: guía para el desarrollo y gestión sostenible. Madrid: OMT.',
+        'Moreno Blanco, J. (2011). Narrativas de la oralidad cultural en el contexto colombiano: Una introducción. Programa Editorial Universidad del Valle. https://programaeditorial.univalle.edu.co/gpd-narrativas-de-oralidad-cultural-en-el-contexto-colombiano-una-introduccion-9789586709415-633248cd03355.html',
     },
     {
       referencia:
-        'Organización Mundial del Turismo (OMT). (2020). Directrices para la planificación de itinerarios turísticos sostenibles. Madrid: OMT.',
+        'Organización Mundial del Turismo. (2019). New publications January 2019. UNWTO. https://www.e-unwto.org/pb-assets/9789284420483.pdf',
     },
     {
       referencia:
-        'Organización Mundial del Turismo (OMT). (2022). Turismo accesible para todos: directrices para la gestión inclusiva de destinos. Madrid: OMT.',
+        'Organización Mundial del Turismo (OMT). (2022). Turismo sostenible y comunidades locales. Madrid: OMT.',
     },
     {
       referencia:
-        'Organización Panamericana de la Salud (OPS). (2020). Guías de bioseguridad para el sector turístico post COVID-19. OPS.',
+        'Pérez López, H. J. (2015). Los tres cuerpos de la narración: una poética cognitivista de la interpretación actoral. Revista Athalante.',
     },
     {
       referencia:
-        'Ruiz, J., & López, M. (2021). Alojamiento sostenible y desarrollo comunitario: experiencias en América Latina. Revista Turismo y Sociedad, 28(2), 115–132.',
+        'Seger, L. (2003). Making a Good Script Great (2.ª ed.). Los Ángeles, CA: Samuel French.',
+    },
+    {
+      referencia:
+        'Spolin, V. (1999). Improvisation for the Theater (3.ª ed.). Evanston, IL: Northwestern University Press.',
+    },
+    {
+      referencia:
+        'UNESCO. (2003). Convention for the Safeguarding of the Intangible Cultural Heritage. https://ich.unesco.org/doc/src/32697-EN.pdf',
+    },
+    {
+      referencia:
+        'Zúñiga, G. F. (2013). Manual de creación de personajes. Universidad Autónoma de Bucaramanga (UNAB). https://repository.unab.edu.co/handle/20.500.12749/979',
     },
   ],
   creditos: [
     {
-      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      titulo: 'CONTROL DEL DOCUMENTO',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Esteban Carlos Jordan Malafalla',
+          cargo: 'Experto temática',
+          centro: 'AHK',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'José Adolfo Copete Restrepo',
+          cargo: 'Experto temático',
+          centro: 'AHK',
         },
       ],
     },
     {
-      titulo: 'CONTENIDO INSTRUCCIONAL',
+      titulo: 'CONTROL DE CAMBIOS',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-      ],
-    },
-    {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
-      autores: [
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-      ],
-    },
-    {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'AHK',
         },
       ],
     },
