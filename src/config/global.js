@@ -176,6 +176,22 @@ export default {
           'Técnicas de adaptabilidad frente a diferentes contextos e imprevistos',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema21',
+
+        numero: '4.3',
+        titulo:
+          'Administración del tiempo y ritmo en la narración',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema22',
+
+        numero: '4.4',
+        titulo:
+          'Estrategias para recibir y dar retroalimentación',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
