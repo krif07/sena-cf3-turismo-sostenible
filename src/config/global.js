@@ -494,27 +494,77 @@ export default {
   ],
   creditos: [
     {
-      titulo: 'CONTROL DEL DOCUMENTO',
+      titulo: 'VIRTUALIZACIÓN DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Esteban Carlos Jordan Malafalla',
-          cargo: 'Experto temática',
-          centro: 'AHK',
+          nombre: 'Andrés Felipe Valencia Pimienta',
+          cargo: 'Jefe de formación profesiona',
+          centro: 'AHK Colombia',
         },
         {
-          nombre: 'José Adolfo Copete Restrepo',
-          cargo: 'Experto temático',
-          centro: 'AHK',
+          nombre: 'Edgar Gómez Rodríguez',
+          cargo: 'Coordinador general',
+          centro: 'AHK Colombia',
+        },
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del ecosistema SENA',
+          centro: 'Dirección General - SENA',
         },
       ],
     },
     {
-      titulo: 'CONTROL DE CAMBIOS',
+      titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
+        {
+          nombre: 'Cristina Jaqueline Enríquez Jaimes',
+          cargo: 'Experta técnica en turismo',
+          centro: 'AHK Colombia',
+        },
+        {
+          nombre: 'Esteban Carlos Jordan Malafalla',
+          cargo: 'Experta técnica en turismo',
+          centro: 'AHK Colombia',
+        },
+        {
+          nombre: 'José Adolfo Copete Restrepo',
+          cargo: 'Experto en comunidades étnicas',
+          centro: 'AHK Colombia',
+        },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Diseñadora Instruccional',
-          centro: 'AHK',
+          centro: 'AHK Colombia',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Jorge Mario Ríos Galvis',
+          cargo: 'Diseñador crossmedia',
+          centro: 'AHK Colombia',
+        },
+        {
+          nombre: 'Cristian Fernando Dávila López',
+          cargo: 'Desarrollador web full stack',
+          centro: 'AHK Colombia',
+        },
+        {
+          nombre: 'Sandra Milena Henao Melchor',
+          cargo: 'Editor de campo para contenidos étnicos y comunitarios',
+          centro: 'AHK Colombia',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Tatiana Martínez',
+          cargo: 'Supervisora de calidad en producción de recursos educativos digitales',
+          centro: 'AHK Colombia',
         },
       ],
     },
