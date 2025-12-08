@@ -548,7 +548,7 @@ export default {
         },
         {
           nombre: 'Cristian Fernando Dávila López',
-          cargo: 'Desarrollador web full stack',
+          cargo: 'Desarrollador web <i>full stack</i>',
           centro: 'AHK Colombia',
         },
         {
