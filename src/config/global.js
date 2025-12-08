@@ -224,7 +224,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist/downloads/CF02_EstrPaqueTuris_DI_VF.pdf',
+        download: 'downloads/dist/downloads/CF03_EstrPaqueTuris_DI_VF.pdf',
       },
       {
         icono: 'fas fa-download',
